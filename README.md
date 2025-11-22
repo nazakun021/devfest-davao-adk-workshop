@@ -62,7 +62,7 @@ Proceed with the workshop proper
 
 Begin by creating a new Google Cloud project so that the activities from this codelab are isolated within this new project only.
 
-1. Navigate to **[console.cloud.google.com/projectcreate](console.cloud.google.com/projectcreate)**
+1. Navigate to **[console.cloud.google.com/projectcreate](https://console.cloud.google.com/projectcreate)**
 
 2. Enter the required information:
 
