@@ -2,8 +2,6 @@
 
 Welcome to the hands-on workshop! Today we will build a simple Agent, attach tools and real time Google Search access.
 
-Then if we have remaining time, we can build a **"Davao Local Guide"** agent that can reason, plan, and search the internet using Google's **Agent Development Kit (ADK)**.
-
 ## Before you begin
 
 This tutorial requires a Google Cloud Project with an active billing account.
